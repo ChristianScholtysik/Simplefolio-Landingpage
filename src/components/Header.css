@@ -1,0 +1,52 @@
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1 {
+  font-family: "Poppins_Bold";
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 800;
+}
+
+h1,
+h4,
+p {
+  color: #bdbddd;
+}
+
+h4 {
+  margin-top: 5px;
+}
+
+p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 0.7rem;
+  margin-top: 5px;
+}
+
+.john {
+  color: #90a0d9;
+  font-size: 2rem;
+  margin: 0 5px;
+  font-weight: 800;
+}
+
+.header-btn {
+  color: #90a0d9;
+  border: solid #90a0d9 1px;
+  font-size: 0.7rem;
+  padding: 8px;
+  background-color: #2a2f4c;
+}
+
+.lorem {
+  text-align: center;
+
+  width: 60vw;
+}

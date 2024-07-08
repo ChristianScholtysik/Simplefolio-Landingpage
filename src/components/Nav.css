@@ -1,0 +1,15 @@
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 60px;
+}
+
+.logo {
+  color: #90a0d9;
+}
+
+a {
+  font-size: small;
+  margin: 0 20px;
+}

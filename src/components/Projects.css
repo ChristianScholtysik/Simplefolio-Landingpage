@@ -1,0 +1,15 @@
+.projectCard-wrapper {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 60px;
+}
+
+h3 {
+  font-family: "Poppins_Bold";
+  color: #bdbddd;
+  text-align: center;
+}
+
+.project-h3 {
+  margin-top: 5rem;
+}
