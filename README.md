@@ -4,8 +4,13 @@ This is a simple React portfolio project that showcases various components such 
 
 ## Table of Contents
 
+- [Live Demo](#live-demo)
 - [Installation](#installation)
 - [Usage](#usage)
+
+## Live Demo
+
+Check out the live demo of the project [here](https://simplefolio-landingpage.netlify.app/).
 
 ## Installation
 
