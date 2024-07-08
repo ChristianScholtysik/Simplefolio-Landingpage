@@ -18,7 +18,7 @@ To get started with this project, follow these steps:
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/ChristianScholtysik/Simplefolio-Landingpage
 
 2. Navigate to the project directory:
 
